@@ -1,0 +1,5 @@
+D:\Slava\Dev\HTML5\jQueryFileUpload.Net-master\jQueryFileUpload\bin\jQueryUploadTest.dll
+D:\Slava\Dev\HTML5\jQueryFileUpload.Net-master\jQueryFileUpload\bin\jQueryUploadTest.pdb
+D:\Slava\Dev\HTML5\jQueryFileUpload.Net-master\jQueryFileUpload\obj\Debug\jQueryFileUpload.csprojResolveAssemblyReference.cache
+D:\Slava\Dev\HTML5\jQueryFileUpload.Net-master\jQueryFileUpload\obj\Debug\jQueryUploadTest.dll
+D:\Slava\Dev\HTML5\jQueryFileUpload.Net-master\jQueryFileUpload\obj\Debug\jQueryUploadTest.pdb
